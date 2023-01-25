@@ -9,6 +9,8 @@ public class HelloWorld {
 		}
 
 		System.out.println("C'est la fin !");
+		System.out.println("Ma nouvelle branche depuis éclipse");
+
 	}
 
 	public int sommeNombres(int num1, int num2) {
